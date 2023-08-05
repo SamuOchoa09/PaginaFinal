@@ -26,11 +26,9 @@
     
      
     
-    width: 190px;
+    width: 100%;
     
-    height: 190px;
-    
-    border-radius: 10px;
+    height: 100%;
     
     background-repeat: no-repeat;
     
@@ -38,7 +36,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("s");
     
     }
     
@@ -46,7 +44,7 @@
     
      
     
-    height: 230px;
+    height: 2000px;
     
      
     
@@ -65,7 +63,7 @@
     }
     .contenidosociales{
 
-        height: 280px;
+        height: 2000px;
         
         width: 100%;
         
@@ -79,7 +77,7 @@
         
          
         
-        .ImagenSamuel{
+        .CondicionHumana{
         
          
         
@@ -87,15 +85,16 @@
         
         float:left;
         
-        height: 200px;
+        height: 100%;
         
-        width: 260px;
+        width: 100%;
         
-        margin-left: 5px;
+        margin-left: 1px;
         
-        margin-right:5px;
+        margin-right: 1px;
         
-        background-image: url("ImagenSamuel");
+        background-image: url("CondicionHumana.jpeg");
+       
         
         }
         
@@ -111,4 +110,6 @@
         
         
         
+        
         }
+       
