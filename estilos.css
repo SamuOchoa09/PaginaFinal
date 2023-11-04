@@ -114,4 +114,22 @@
         
         
         }
+        .imga{
+    
+            position: center;
+            
+             
+            
+            width: 525px;
+        
+            
+            height: 1250px;
+            
+           
+            
+             
+        
+            left: 10px;
+            
+            background-image: url("Infografia.jpeg"); }
        
