@@ -132,4 +132,169 @@
             left: 10px;
             
             background-image: url("Infografia.jpeg"); }
-       
+            .imag{
+    
+                position: center;
+                
+                 
+                
+                width: 700px;
+            
+                
+                height: 400px;
+                
+               
+                
+                 
+            
+                left: 10px;
+                
+                background-image: url("matematicasaprg.jpeg"); }
+                .imagen{
+    
+                    position: center;
+                    
+                     
+                    
+                    width: 700px;
+                
+                    
+                    height: 500px;
+                    
+                
+                    
+                     
+                
+                    left: 10px;
+                    
+                    background-image: url("abeja.jpeg"); }     
+                    .empatia {
+        
+         
+        
+                       
+                        
+                        position: center;
+                        left: 10px;
+                        
+                        height: 185px;
+                        
+                        width: 200px;
+                        
+                    
+                        
+                        background-image: url("empatia.jpg");} 
+                        .escuchar {
+        
+         
+        
+                       
+                        
+                            position: center;
+                            left: 10px;
+                            
+                            height: 1300px;
+                            
+                            width: 1600px;
+                            
+                        
+                            
+                            background-image: url("Escucha-activa.jpg");} 
+                            .opiniones {
+        
+         
+        
+                       
+                        
+                                position: center;
+                                left: 10px;
+                                
+                                height: 193px;
+                                
+                                width: 220px;
+                                
+                            
+                                
+                                background-image: url("respetar\ opinones.jpg");} 
+                                .violenciamala {
+        
+         
+        
+                       
+                        
+                                    position: center;
+                                    left: 10px;
+                                    
+                                    height: 1000px;
+                                    
+                                    width: 10000px;
+                                    
+                                
+                                    
+                                    background-image: url("violenciamala.jpg");} 
+                                    .lgbt {
+        
+         
+        
+                       
+                        
+                                        position: center;
+                                        left: 10px;
+                                        
+                                        height: 1000px;
+                                        
+                                        width: 5000px;
+                                        
+                                    
+                                        
+                                        background-image: url("lgbt.png");} 
+                                        .estereotipos {
+        
+         
+        
+                       
+                        
+                                            position: center;
+                                            left: 10px;
+                                            
+                                            height: 680px;
+                                            
+                                            width: 2000px;
+                                            
+                                        
+                                            
+                                            background-image: url("estereotipos.jpg");} 
+                                            .fakenews {
+        
+         
+        
+                       
+                        
+                                                position: center;
+                                                left: 10px;
+                                                
+                                                height: 1300px;
+                                                
+                                                width: 1300px;
+                                                
+                                            
+                                                
+                                                background-image: url("fakenews.jpg");} 
+                                                .palabras {
+        
+         
+        
+                       
+                        
+                                                    position: center;
+                                                    left: 10px;
+                                                    
+                                                    height: 1350px;
+                                                    
+                                                    width: 1300px;
+                                                    
+                                                
+                                                    
+                                                    background-image: url("palabras.jpg");} 
+                                        
+                                    
