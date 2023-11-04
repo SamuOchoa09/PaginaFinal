@@ -316,7 +316,24 @@ color: black;
     color: brown;
     text-align: center;}
 
+    .paz{ 
+        font-size: 40px;
+        color: rgb(255, 0, 0);
+        text-align: center;}
 
+.P3{
 
-
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-align: center;}
+.reglas {
+    font-size: 35px;
+    color: black;
+    text-align: left;
+}
+.reglas2{
+    font-size: 25px;
+    color: rgb(112, 74, 74);
+    text-align: left;
+}
 

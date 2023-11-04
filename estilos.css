@@ -12,31 +12,33 @@
     
     body{
     
-    background-image: url("imagenCuadros2");
+    background-image: url("canva.png");
     
-    background-repeat: no-repeat;
-    
+    width: 100%;
+    height: 100%;
+    left: 100%;
     }
     
     
     
     .img{
     
-    position: relative;
+    position: center;
     
      
     
     width: 100%;
+
     
     height: 100%;
     
-    background-repeat: no-repeat;
+   
     
      
     
-    left: 180px;
+    left: 100%;
     
-    background-image: url("s");
+    background-image: url("canva.png");
     
     }
     
